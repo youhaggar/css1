@@ -1,0 +1,21 @@
+nav{
+    display: flex;
+}
+li{
+    display: inline-flex;
+    margin: 20px;
+    font-size: 20px;
+    font-family: roboto;
+
+}
+body{
+    background:orange;
+}
+img{
+    margin-right: 50%;
+}
+
+h1{   text-align:center;
+}
+    
+
